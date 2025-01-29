@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @florianwimbauer
-- 👀 I’m interested in Photography, Church Organs, Poultry and Cars
+- 👀 I’m interested in Photography, Church Organs, and everything with Computers
 - 🌱 I’m a Bachelor Student at TUM
 - 💞️ I’m looking to collaborate on Arduino Things
 - 📫 Just email me
